@@ -26,11 +26,10 @@ if($num_files > 0){
             ?>
               <div class="w3-row w3-center">
             <img class="tfoto" src="<?php echo $file_path; ?>" alt="Imagen de ejemplo" title="Imagen de ejemplo">
-            <br>
             <?php
             $info = pathinfo($file);
             $file_name =  basename($file,'.'.$info['extension']);
-            echo $file_name.'</div>';
+            echo $file_name.'</div><br>';
 
         }
     }
