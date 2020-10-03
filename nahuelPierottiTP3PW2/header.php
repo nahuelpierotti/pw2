@@ -16,6 +16,8 @@
     <a href="<?php echo $ruta .'ejercicio2/ejercicio2.php';?>" class='w3-bar-item w3-button w3-mobile'>Ejercicio2</a>
     <a href="<?php echo $ruta .'ejercicio3/ejercicio3.php';?>" class='w3-bar-item w3-button w3-mobile'>Ejercicio3</a>
     <a href="<?php echo $ruta .'ejercicio4/ejercicio4.php';?>" class='w3-bar-item w3-button w3-mobile'>Ejercicio4</a>
+    <a href="<?php echo $ruta .'ejercicio5/ejercicio5.php';?>" class='w3-bar-item w3-button w3-mobile'>Ejercicio5</a>
+    <a href="<?php echo $ruta .'ejercicio6/ejercicio6.php';?>" class='w3-bar-item w3-button w3-mobile'>Ejercicio6</a>
 </div>
 </header>
 <br>

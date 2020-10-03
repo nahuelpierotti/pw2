@@ -79,3 +79,17 @@ img{
         align-items: stretch;
     }
 }
+
+.qqq {
+    display: inline-block;
+    transform-origin: center center;
+    width: 150px;
+    height: 150px;
+    background: #E8E3D1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.img_dado{
+    width: 150px;
+    height: 150px;
+}
