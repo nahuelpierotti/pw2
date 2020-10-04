@@ -26,6 +26,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/phpunit-7.2.7.phar" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -37,19 +39,34 @@
       <recent name="C:\xampp\htdocs\nahuelPierottiTP3PW2\css" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="nahuelPierottiTP3PW2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.1.33" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
-      <TestRunner directory="$PROJECT_DIR$" />
+  <component name="RunManager" selected="PHPUnit.TestEjercicios">
+    <configuration name="TestEjercicios" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestEjercicios.testCuenteArchivo" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testCuenteArchivo" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestEjercicios.testQueCuenteNoTierra" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCuenteNoTierra" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestEjercicios.testQueCuenteNoTierraArchivo" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCuenteNoTierraArchivo" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestEjercicios.testQueCuenteTierraArchivo" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCuenteTierraArchivo" scope="Method" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHPUnit.nahuelPierottiTP3PW2" />
+        <item itemvalue="PHPUnit.TestEjercicios" />
+        <item itemvalue="PHPUnit.TestEjercicios.testQueCuenteNoTierra" />
+        <item itemvalue="PHPUnit.TestEjercicios.testCuenteArchivo" />
+        <item itemvalue="PHPUnit.TestEjercicios.testQueCuenteTierraArchivo" />
+        <item itemvalue="PHPUnit.TestEjercicios.testQueCuenteNoTierraArchivo" />
       </list>
     </recent_temporary>
   </component>
@@ -70,7 +87,11 @@
       <workItem from="1601479154576" duration="76000" />
       <workItem from="1601593931371" duration="3460000" />
       <workItem from="1601643967856" duration="7338000" />
-      <workItem from="1601668398863" duration="10172000" />
+      <workItem from="1601668398863" duration="15161000" />
+      <workItem from="1601693102783" duration="703000" />
+      <workItem from="1601694385317" duration="5635000" />
+      <workItem from="1601734544041" duration="8150000" />
+      <workItem from="1601775831739" duration="9028000" />
     </task>
     <servers />
   </component>
@@ -82,25 +103,45 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="219" y="7" key="#PHP/0.0.1024.728@0.0.1024.728" timestamp="1601226309029" />
-    <state width="981" height="179" key="GridCell.Tab.0.bottom" timestamp="1601612252638">
+    <state x="92" y="19" key="#Test_Frameworks" timestamp="1601693368888">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="179" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1601612252638" />
-    <state width="981" height="179" key="GridCell.Tab.0.center" timestamp="1601612252638">
+    <state x="92" y="19" key="#Test_Frameworks/0.0.1024.728@0.0.1024.728" timestamp="1601693368888" />
+    <state x="92" y="92" width="840" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601747154609">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="179" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1601612252638" />
-    <state width="981" height="179" key="GridCell.Tab.0.left" timestamp="1601612252638">
+    <state x="92" y="92" width="840" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1024.728@0.0.1024.728" timestamp="1601747154609" />
+    <state x="217" y="34" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601693523444">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="179" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1601612252638" />
-    <state width="981" height="179" key="GridCell.Tab.0.right" timestamp="1601612252638">
+    <state x="217" y="34" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1024.728@0.0.1024.728" timestamp="1601693523444" />
+    <state x="292" y="119" key="FileChooserDialogImpl" timestamp="1601693361318">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1601612252638" />
-    <state x="346" y="287" key="NewPhpFileDialog" timestamp="1601684425221">
+    <state x="292" y="119" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1601693361318" />
+    <state width="981" height="179" key="GridCell.Tab.0.bottom" timestamp="1601784769430">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="346" y="287" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1601684425221" />
+    <state width="981" height="179" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1601784769430" />
+    <state width="981" height="179" key="GridCell.Tab.0.center" timestamp="1601784769430">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1601784769430" />
+    <state width="981" height="179" key="GridCell.Tab.0.left" timestamp="1601784769430">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1601784769430" />
+    <state width="981" height="179" key="GridCell.Tab.0.right" timestamp="1601784769430">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1601784769430" />
+    <state x="346" y="287" key="NewPhpFileDialog" timestamp="1601782029258">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="346" y="287" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1601782029258" />
+    <state x="261" y="108" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1601693203555">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="261" y="108" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1024.728@0.0.1024.728" timestamp="1601693203555" />
   </component>
 </project>

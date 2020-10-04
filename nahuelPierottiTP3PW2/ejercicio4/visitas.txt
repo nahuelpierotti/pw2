@@ -1,0 +1,5 @@
+maradona|mercurio
+messi|tierra
+cr7|marte
+scaloni|tierra
+ronaldinho|neptuno
