@@ -72,10 +72,10 @@ echo '<h4>La matriz de dimension '.$dimension.' es:</h4>';
 $sumaMatriz=imprimirMatriz($matriz,$dimension);
 echo '<h4>Diagonal ppal: </h4>';
 $diagonal=recorrerUnSoloForDiagonalPpal($matriz,$dimension);
-echo '<h4>La suma es: '.$diagonal.'</h4>';
+echo '<h4>La suma diagonal ppal es: '.$diagonal.'</h4>';
 echo '<h4>Diagonal Sec: </h4>';
 $diagonalSec=recorrerUnSoloForDiagonalSec($matriz,$dimension);
-echo '<h4>La suma es: '.$diagonalSec.'</h4>';
+echo '<h4>La suma diagonal secundaria es: '.$diagonalSec.'</h4>';
 echo '<br><h4>La suma total de los valores de la matriz es: '.$sumaMatriz.'</h4>'
 ?>
 </div>

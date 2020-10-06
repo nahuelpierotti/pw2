@@ -44,29 +44,29 @@
       <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" scope="Class" />
       <method v="2" />
     </configuration>
-    <configuration name="TestEjercicios.testCuenteArchivo" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testCuenteArchivo" scope="Method" />
+    <configuration name="TestEjercicios.testQueCalculeDiagonalPpal" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCalculeDiagonalPpal" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestEjercicios.testQueCalculeDiagonalSecundaria" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCalculeDiagonalSecundaria" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestEjercicios.testQueCalculeSumaTotal" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCalculeSumaTotal" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="TestEjercicios.testQueCuenteNoTierra" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCuenteNoTierra" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="TestEjercicios.testQueCuenteNoTierraArchivo" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCuenteNoTierraArchivo" scope="Method" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestEjercicios.testQueCuenteTierraArchivo" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="SebastianBergmann\Exporter\TestEjercicios" file="$PROJECT_DIR$/test/TestEjercicios.php" method="testQueCuenteTierraArchivo" scope="Method" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="PHPUnit.TestEjercicios" />
+        <item itemvalue="PHPUnit.TestEjercicios.testQueCalculeSumaTotal" />
+        <item itemvalue="PHPUnit.TestEjercicios.testQueCalculeDiagonalSecundaria" />
+        <item itemvalue="PHPUnit.TestEjercicios.testQueCalculeDiagonalPpal" />
         <item itemvalue="PHPUnit.TestEjercicios.testQueCuenteNoTierra" />
-        <item itemvalue="PHPUnit.TestEjercicios.testCuenteArchivo" />
-        <item itemvalue="PHPUnit.TestEjercicios.testQueCuenteTierraArchivo" />
-        <item itemvalue="PHPUnit.TestEjercicios.testQueCuenteNoTierraArchivo" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +97,7 @@
       <workItem from="1601905931693" duration="5090000" />
       <workItem from="1601931080240" duration="4624000" />
       <workItem from="1601996281925" duration="3265000" />
+      <workItem from="1602013497682" duration="1524000" />
     </task>
     <servers />
   </component>
@@ -124,22 +125,22 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="292" y="119" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1601693361318" />
-    <state width="981" height="179" key="GridCell.Tab.0.bottom" timestamp="1601785216445">
+    <state width="981" height="179" key="GridCell.Tab.0.bottom" timestamp="1602015129123">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="179" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1601785216445" />
-    <state width="981" height="179" key="GridCell.Tab.0.center" timestamp="1601785216445">
+    <state width="981" height="179" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1602015129123" />
+    <state width="981" height="179" key="GridCell.Tab.0.center" timestamp="1602015129123">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="179" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1601785216445" />
-    <state width="981" height="179" key="GridCell.Tab.0.left" timestamp="1601785216429">
+    <state width="981" height="179" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1602015129123" />
+    <state width="981" height="179" key="GridCell.Tab.0.left" timestamp="1602015129122">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="179" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1601785216429" />
-    <state width="981" height="179" key="GridCell.Tab.0.right" timestamp="1601785216445">
+    <state width="981" height="179" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1602015129122" />
+    <state width="981" height="179" key="GridCell.Tab.0.right" timestamp="1602015129123">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1601785216445" />
+    <state width="981" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1602015129123" />
     <state x="346" y="287" key="NewPhpFileDialog" timestamp="1601865748861">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
