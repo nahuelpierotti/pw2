@@ -18,5 +18,8 @@ class TestEjercicios extends TestCase
         $this->assertEquals($cantidad,2);
     }
 
+    function testQueCalculeDiagonalPpal(){
+        
+    }
 
 }
